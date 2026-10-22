@@ -1,0 +1,12 @@
+streamlit
+pypdf
+chromadb
+sentence-transformers
+langchain-core
+langchain-text-splitters
+python-dotenv
+# Install the one(s) for the LLM provider you use:
+langchain-groq
+# langchain-openai
+# langchain-google-genai
+# langchain-mistralai

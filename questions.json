@@ -1,0 +1,5 @@
+[
+  {"q": "REPLACE with a question your PDF answers", "expect": ["keyword1", "keyword2"]},
+  {"q": "REPLACE with another question your PDF answers", "expect": ["keyword"]},
+  {"q": "What is the capital of Australia?", "expect": "NOT_FOUND"}
+]
