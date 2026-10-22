@@ -14,8 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="   <img width="1763" height="927" alt="Screenshot 2026-10-22 123531" src="https://github.com/user-attachments/assets/660a05b5-0661-4451-aac3-2b7544a30da3" />
-" alt="StudyMate RAG screenshot" width="85%" />
+ 
 </p>
 
 ---
